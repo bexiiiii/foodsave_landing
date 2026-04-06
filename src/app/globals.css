@@ -3743,20 +3743,18 @@ img {
 }
 
 .loveresta-detail-telegram__badge {
-  width: 60px;
-  height: 60px;
-  border-radius: 18px;
-  background: #24a2ff;
-  color: #fff;
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  background: transparent;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 12px 24px rgba(36, 162, 255, 0.16);
 }
 
 .loveresta-detail-telegram__icon {
-  width: 28px;
-  height: 28px;
+  width: 56px;
+  height: 56px;
   display: block;
 }
 
@@ -3799,10 +3797,11 @@ img {
 }
 
 .loveresta-detail-telegram__buttonIcon {
-  width: 24px;
-  height: 24px;
+  width: 26px;
+  height: 26px;
   display: block;
   flex-shrink: 0;
+  border-radius: 999px;
 }
 
 .loveresta-detail-map {
